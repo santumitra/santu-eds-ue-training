@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--santu-eds-ue-training--santumitra.aem.page/
+- Live: https://main--santu-eds-ue-training--santumitra.aem.live/
 
 ## Documentation
 
